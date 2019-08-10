@@ -1,10 +1,3 @@
 测试CHECKout
 
-测试CHECKout2
-测试CHECKout2
-测试CHECKout2
-测试CHECKout2
-测试CHECKout2
 
-
-branc 2
