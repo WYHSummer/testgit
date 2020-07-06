@@ -8,4 +8,5 @@
 
 测试revert -2 --delete
 
+测试revert -3 --add
 
