@@ -4,3 +4,7 @@
 测试变基操作
 变基操作TEST
 
+测试revert -1 --delete
+
+
+
